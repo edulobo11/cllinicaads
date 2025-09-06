@@ -1,4 +1,4 @@
-*Requisitos Funcionais e de Usuário para o sistema de uma clinica
+*Requisitos Funcionais e de Usuário para o sistema de uma clinica:*
 
 RU1 - QUero cadastrar os medicos.
 RF1 - O sistema deve possibilitar o cadastro de médicos com os seguintes dados: nome completo, crn, especialidade, disponibilidade, cpf.
@@ -29,3 +29,19 @@ RF9 - O sistema deve permitir a busca de médicos e pacientes por nome ou CPF, c
 
 RU10 - Quero gerar relatórios mensais de atendimentos.
 RF10 - O sistema deve gerar relatórios mensais com estatísticas de atendimentos por médico, especialidade, número de pacientes atendidos e convênios utilizados.
+
+*Requisitos Nao Funcionais:*
+
+RNF1 - O sistema deve responder em até 5 segundos.
+RNF2 - O sistema deve ficar disponivel 99,9% do tempo. 
+RNF3 - O sistema deve ter uma interface simples e fácil de usar.
+RNF4 - O sistema de ter as cores principais: azul e branco.
+RNF5 - O sistema deve ter ações dos usuários para ouvidoria.
+
+*Requisitos de Software:*
+
+RS1 - O sistema deve funcionar em Windows, Linux e MacOS.
+RS2 - O sistema deve ser acessível pela internet, via navegador web.
+RS3 - O sistema deve funcionar em dispositivos móveis.
+RS4 - A interface deve se redimensionar automaticamente para diferentes tamanhos de tela.
+RS5 - O sistema deve suportar múltiplos usuários acessando simultaneamente. 
