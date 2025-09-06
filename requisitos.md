@@ -44,4 +44,4 @@ RS1 - O sistema deve funcionar em Windows, Linux e MacOS.
 RS2 - O sistema deve ser acessível pela internet, via navegador web.
 RS3 - O sistema deve funcionar em dispositivos móveis.
 RS4 - A interface deve se redimensionar automaticamente para diferentes tamanhos de tela.
-RS5 - O sistema deve suportar múltiplos usuários acessando simultaneamente. 
+RS5 - O sistema deve ter instalação simples e rápida.
